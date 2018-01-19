@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-analytics",
-  "version": "3.0.0-alpha.7.3",
+  "version": "0.0.1",
   "description": "This is the description of the plugin.",
   "strapi": {
     "name": "Analytics",
