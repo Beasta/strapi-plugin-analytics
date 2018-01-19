@@ -39,13 +39,13 @@
       "url": "http://strapi.io"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi-plugin-analytics.git"
+  },
   "engines": {
     "node": ">= 8.0.0",
     "npm": ">= 5.3.0"
   },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/strapi/strapi-plugin-analytics.git"
-  }
+  "license": "MIT"
 }
