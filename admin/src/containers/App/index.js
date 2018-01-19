@@ -38,9 +38,7 @@ App.contextTypes = {
   updatePlugin: PropTypes.func,
 };
 
-App.propTypes = {
-  history: PropTypes.object.isRequired,
-};
+App.propTypes = {};
 
 export function mapDispatchToProps(dispatch) {
   return bindActionCreators(
