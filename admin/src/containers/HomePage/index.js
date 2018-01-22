@@ -25,7 +25,7 @@ export class HomePage extends React.Component {
     const { innerHeight } = window;
     // TODO change iframe URL
     return (
-      <iframe src="https://webstrapiii.herokuapp.com/index.html" style={{ width: '100%', height: `${innerHeight - 100}px`, border: '0' }}  frameBorder="0" scrolling="no" title="analytics" />
+      <iframe src="https://marketplace.strapi.io/analytics" style={{ width: '100%', height: `${innerHeight - 100}px`, border: '0' }}  frameBorder="0" scrolling="no" title="analytics" />
     );
   }
 }
