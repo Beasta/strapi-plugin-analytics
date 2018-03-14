@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-analytics",
-  "version": "3.0.0-alpha.10.3",
+  "version": "3.0.0-alpha.11.1",
   "description": "This is the description of the plugin.",
   "strapi": {
     "name": "Analytics",
@@ -24,7 +24,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "strapi-helper-plugin": "3.0.0-alpha.10.3"
+    "strapi-helper-plugin": "3.0.0-alpha.11.1"
   },
   "author": {
     "email": "hi@strapi.io",
