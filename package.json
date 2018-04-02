@@ -22,9 +22,10 @@
     "test": "npm run lint",
     "prepublishOnly": "npm run build"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "strapi-helper-plugin": "3.0.0-alpha.11.1"
+  },
+  "devDependencies": {
   },
   "author": {
     "email": "hi@strapi.io",
